@@ -1,11 +1,19 @@
-PROJECT TEMPLATE
+# PROJECT TEMPLATE
 
 For a quick start ...
 
-FONTS:
+## FONTS:
 https://fonts.google.com/
 https://gwfh.mranftl.com/fonts
 
-FAVICON:
+## FAVICON:
 https://www.favicon-generator.org/
+https://favicon.io/
 
+1. Project Title
+2. Description
+3. Features
+4. How to use
+5. Technologies
+6. Collaborators
+7. License
