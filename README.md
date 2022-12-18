@@ -3,12 +3,12 @@
 For a quick start ...
 
 ## FONTS:
-https://fonts.google.com/
-https://gwfh.mranftl.com/fonts
+* https://fonts.google.com/
+* https://gwfh.mranftl.com/fonts
 
 ## FAVICON:
-https://www.favicon-generator.org/
-https://favicon.io/
+* https://www.favicon-generator.org/
+* https://favicon.io/
 
 1. Project Title
 2. Description
@@ -17,3 +17,6 @@ https://favicon.io/
 5. Technologies
 6. Collaborators
 7. License
+
+## Basic writing and formatting syntax
+* https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax 
